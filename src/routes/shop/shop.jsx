@@ -1,6 +1,7 @@
 import React from "react";
 import { PRODUCTS } from "../../products";
 import Product from "./product";
+import "./shop.css"
 
 function Shop() {
   return (
@@ -13,6 +14,7 @@ function Shop() {
           <Product data={item} />
         ))}
       </div>
+     
     </div>
   );
 }
