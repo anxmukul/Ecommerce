@@ -102,14 +102,8 @@ export const PRODUCTS = [
   },
   {
     id: 15,
-    productName: "Low-Top Trainers",
-    price: 300,
-    productImage: sneaker7,
-  },
-  {
-    id: 16,
     productName: "Amore Fashion Stilettos",
     price: 700,
     productImage: sneaker8,
-  }
+  },
 ];
